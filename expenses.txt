@@ -1,0 +1,7 @@
+Item: Pens | Price: $9.99 | Date: 04/25/2025
+Item: Scissors | Price: $15.99 | Date: 04/26/2025
+Total spent: $25.98
+
+Item: Pens | Price: $9.99 | Date: 04/25/2025
+Total spent: $9.99
+
