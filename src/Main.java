@@ -7,7 +7,7 @@ public class Main {
         ArrayList<String> itemList = new ArrayList<>();
         //Finance Tracker Basic
         //Utilizing ChatGPT for projects
-
+        //Add listing and total expenses.
 
 
         System.out.println("Enter the item description: ");
